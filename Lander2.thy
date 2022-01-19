@@ -1,4 +1,3 @@
-
 theory Lander2
     imports ContinuousInv  Complementlemma
 begin
