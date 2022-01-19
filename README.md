@@ -10,12 +10,12 @@
 ### Analysis_more.thy
   * some results about derivatives   
   * some lemmas in real functions like MVT and IVT  
-  * definitions of states, ode and ode solution
+  * definitions of state, ode and ode solution
       
 ### BigStepSimple.thy
   * Big-step semantics 
   * definition of valid
-  * some Hoare rules
+  * Hoare rules for discrete process
       
 ### BigStepContinuous.thy
   * Hoare rules for ode and ode interrupt
@@ -25,7 +25,7 @@
   * Hoare rules for parallel hcsp
       
 ### ContinuousInv.thy and Complementlemma.thy
-  * Diffinv rule, Dbx rule and Barrier rule and their variants
+  * Diffinv rule, Dbx rule and Dbarrier rule and their variants
 
 ### Lander1.thy and Lander2.thy
   * Lander1: the example of lander with no parallel
